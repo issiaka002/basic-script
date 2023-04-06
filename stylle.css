@@ -1,0 +1,33 @@
+h1{
+    font-weight: bold;
+    font-family: Verdana, Tahoma, sans-serif;
+    margin-left: 22px;
+    
+}
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    width: 480px;
+    background-color: aliceblue;
+    border-radius: 12px;
+
+}
+table tr td input{
+    width: 360px;
+    margin-left: 37px;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    border-radius: 12px;
+    border: none;
+}
+.dernier{
+    width: 150px;
+    margin-top: 30px;
+    background-color: grey;
+}
+body{
+    background-color: #f1f1f1;
+}
